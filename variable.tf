@@ -1,10 +1,10 @@
 variable "SEC" {
    type = string
-   default = "qJTIZUI7gfgf5RVfQPHtA4JjMZwTQ5Z6FTW5xdsc"
+   default = ""
 }
 variable "ACC" {
    type = string
-   default = "AKIAW6OZVYRCXJZHD2GV"
+   default = ""
 }
 
 variable "AMIS" {
